@@ -11,7 +11,7 @@ trying to do some add,commits and push...lets see
 
 step-4...
 
-so i basically what i found is that there are two repositories 
+so  basically what i found is that there are two repositories 
 one is local control repo in our machine
 git add and commit in cli tracks and saves changes in local repo
 not in remote...i repeat only in local
