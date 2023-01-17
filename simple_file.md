@@ -18,3 +18,8 @@ not in remote...i repeat only in local
 
 git push is the command which makes the changes in remote repo 
 that is github website
+
+step-5 
+so now i am learning the concept of branching here...
+so i am doing modiifications to this file 
+okay done!!!
